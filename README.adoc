@@ -1,0 +1,20 @@
+= numeronym
+
+Show numeronym
+
+== Install
+
+[source,shell]
+----
+fisher add github.com/mimikun/numeronym
+----
+
+== Usage
+
+[source,shell]
+----
+$ numeronym
+Input base string: ⏎                                                                                      read> kubernetes
+k8s
+----
+
