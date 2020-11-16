@@ -6,7 +6,7 @@ Show numeronym
 
 [source,shell]
 ----
-fisher add github.com/mimikun/numeronym
+fisher install mimikun/numeronym
 ----
 
 == Usage
@@ -14,7 +14,7 @@ fisher add github.com/mimikun/numeronym
 [source,shell]
 ----
 $ numeronym
-Input base string: ⏎                                                                                      read> kubernetes
+Input base string: ⏎
+read> kubernetes
 k8s
 ----
-
