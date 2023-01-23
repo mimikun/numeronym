@@ -1,20 +1,18 @@
-= numeronym
+# numeronym
 
 Show numeronym
 
-== Install
+## Install
 
-[source,shell]
-----
+```shell
 fisher install mimikun/numeronym
-----
+```
 
-== Usage
+## Usage
 
-[source,shell]
-----
+```shell
 $ numeronym
 Input base string: ⏎
 read> kubernetes
 k8s
-----
+```
