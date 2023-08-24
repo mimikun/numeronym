@@ -4,6 +4,16 @@ Show numeronym
 
 ## Install
 
+### Bash
+
+```shell
+git clone https://github.com/mimikun/numeronym.git
+cd numeronym
+make install
+```
+
+### Fish
+
 ```shell
 fisher install mimikun/numeronym
 ```
